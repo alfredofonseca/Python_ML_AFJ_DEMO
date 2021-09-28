@@ -13,7 +13,7 @@ Then, execute the sh file:
 ```
 ./run.sh
 ```
-Then open the url that appear on the termainal
+Then open the url that appear on the terminal
 
 
 ## Built With
