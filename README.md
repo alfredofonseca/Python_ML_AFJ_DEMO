@@ -4,16 +4,24 @@
 
 Machine Learning Examples
 
+* Supervised Learning Examples
+* Unsupervised Learning Examples
+
+##### Pokemon Clustering
+
+<imgr src="unsupervised_learning/clustering/charmander_evolution.jpg" />
+
 
 ## Executing the project
 
-You need to have docker on your machine
+You need to have docker installed on your machine.
 
-Then, execute the sh file:
+1. Execute the sh file:
 ```
 ./run.sh
 ```
-Then open the url that appear on the terminal (URL that contains 127.0.0.1)
+
+2. Open the url that appear on the terminal (URL that contains 127.0.0.1)
 
 
 ## Built With
