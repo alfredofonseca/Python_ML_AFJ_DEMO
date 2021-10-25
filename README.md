@@ -34,8 +34,9 @@ cd AFJ_ML_DEMO
 ./run.sh
 ```
 
-4. Open the url that appear on the terminal (URL that contains 127.0.0.1)
+4. Using a browser, open the url that appear on the terminal (URL that contains 127.0.0.1)
 
+5. Click on the local folder. The runbooks are on the subfolders
 
 ## Built With
 * [Scikit-learn](https://scikit-learn.org/) : Machine Learning in Python
