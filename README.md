@@ -16,14 +16,25 @@ There are notebooks with examples (e.g.: clustering pokemons)
 
 ## Executing the project
 
-You need to have docker installed on your machine.
+You need to have docker and git installed on your machine.
 
-1. Execute the sh file:
+
+1. Clone the git repository :
+```
+git clone https://github.com/alfredofonseca/AFJ_ML_DEMO
+```
+
+2. Go to folder AFJ_ML_DEMO
+```
+cd AFJ_ML_DEMO
+```
+
+3. Execute the sh file:
 ```
 ./run.sh
 ```
 
-2. Open the url that appear on the terminal (URL that contains 127.0.0.1)
+4. Open the url that appear on the terminal (URL that contains 127.0.0.1)
 
 
 ## Built With
