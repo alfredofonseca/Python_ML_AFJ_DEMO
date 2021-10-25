@@ -9,7 +9,7 @@ Machine Learning Examples
 
 ##### Pokemon Clustering
 
-<imgr src="unsupervised_learning/clustering/charmander_evolution.jpg" />
+<img src="unsupervised_learning/clustering/charmander_evolution.jpg" />
 
 
 ## Executing the project
