@@ -7,8 +7,8 @@ Machine Learning Examples
 * Supervised Learning Examples
 * Unsupervised Learning Examples
 
-##### Pokemon Clustering
 
+There are notebooks with examples (e.g.: clustering pokemons)
 <img src="unsupervised_learning/clustering/151pokemons.jpg" width=300 />
 
 
