@@ -21,12 +21,12 @@ You need to have docker and git installed on your machine.
 
 1. Clone the git repository :
 ```
-git clone https://github.com/alfredofonseca/AFJ_ML_DEMO
+git clone https://github.com/alfredofonseca/Python_ML_AFJ_DEMO
 ```
 
-2. Go to folder AFJ_ML_DEMO
+2. Go to folder Python_ML_AFJ_DEMO
 ```
-cd AFJ_ML_DEMO
+cd Python_ML_AFJ_DEMO
 ```
 
 3. Execute the sh file:
